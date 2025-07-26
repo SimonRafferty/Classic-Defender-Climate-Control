@@ -1,6 +1,5 @@
 # Classic-Defender-Climate-Control
 Climate control for my Defender
-
 I added Air Conditioning to my Defender - and wanted the HVAC to behave similarly to that on my 2005 Range Rover Sport.
 
 I wanted to re-use the original controls on the Defender for the air temperature and fan speed - but I added two new switches (the same functions as the Range Rover) These are Auto / Manual and Defrost.
