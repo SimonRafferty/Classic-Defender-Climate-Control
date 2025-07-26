@@ -15,3 +15,5 @@ To re-use the original control sliders, I used Electric Go-Kart throttle potenti
 The Defrost button turns on the AC, sets the heater valve to 100% (Hot) and the fan to maximum.  If fitted, it also switches on the heated screen & mirrors.  This combination is VERY effective!
 
 So far, it has worked flawlessly. 
+
+It's designed to run on an Adafruit Huzzah32.  Why use a relatively expensive ESP32 when you can buy one for $3? I've found them the most reliable in automotive applications with wide temperature variations, RF and electrical noise. The first version used a TTGO T-Display but with largely the same code, it kept crashing and after a few days, bricked itself!
